@@ -19,6 +19,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>图床测试</title>
+    <url>/2020/11/10/imgtest/</url>
+    <content><![CDATA[<h2 id="here-is-the-test-of-img"><a href="#here-is-the-test-of-img" class="headerlink" title="here is the test of img"></a>here is the test of img</h2><a id="more"></a>
+
+<h3 id="from-imgchr"><a href="#from-imgchr" class="headerlink" title="from imgchr"></a>from imgchr</h3><p><a href="https://imgchr.com/i/BLhUVH"><img src="https://s1.ax1x.com/2020/11/10/BLhUVH.png" alt="JVM"></a></p>
+<h3 id="from-same-name-folder"><a href="#from-same-name-folder" class="headerlink" title="from same name folder"></a>from same name folder</h3><p><img src="/2020/11/10/imgtest/es.jpg" alt="es"></p>
+<h3 id="from-source-img"><a href="#from-source-img" class="headerlink" title="from source/img"></a>from source/img</h3><img src="/2020/11/10/imgtest/huluwa.jpg" alt="葫芦娃">]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>图片</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>redis学习笔记</title>
     <url>/2020/11/06/redis%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>###数据结构</p>
